@@ -1,0 +1,1 @@
+This is a git-clone to help me better understand git with the help of ugit
