@@ -1,0 +1,5 @@
+.ugit/
+.DS_Store
+__pycache__
+*.egg-info/
+.venv/
